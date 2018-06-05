@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  script(src='/javascripts/bolao.js')
+  link(rel='stylesheet', href= brw.mobile ? '/stylesheets/style.mob.css' : '/stylesheets/style.css'  )
+  h1 
+    img(src='/images/pp.jpg') 
+    = ' BOLÃO DO MAX - BRASILEIRÃO'
+  h2 Resultados em tempo real
+  br
+  table(class='table-striped')
+    tbody
+      tr 
+        each val in ['Pos','Nome','Pts','SG', 'Prêmio']
+          th(rowspan='2')= val
+        th(colspan=4,class='centro')= 'Clubes'
+      tr
+        each val in ['GP1','GP2','GP3','GP4']
+          th(class='centro')= val
+    each c in bolao.Competidores
+      tr(onclick=`demonstrativo(${JSON.stringify(c)});`)
+        td(class='direita')= c.Posicao
+        td= c.Nome
+        td(class='direita spacamento-lateral')= c.Pontos
+        td(class='direita spacamento-lateral ' + (c.Saldo_Gols < 0?'vermelho':''))= c.Saldo_Gols
+        td(class='direita spacamento-lateral ')= c.Premio
+        each t in c.Clubes
+          td(class='centro ' + (t.Coracao ?'coracao':''))=  t.Clube 
+    

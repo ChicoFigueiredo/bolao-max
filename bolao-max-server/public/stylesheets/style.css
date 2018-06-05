@@ -1,0 +1,54 @@
+html {
+    font: 1.1vw 'Sunflower', sans-serif;
+}
+
+body {
+    padding: 5px;
+    font: 1.1vw 'Sunflower', sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.coracao {
+    background-color: #AAAAAA;
+}
+
+.centro {
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white
+}
+
+th,
+td {
+    padding: 3px;
+    padding-top: .75em;
+    padding-bottom: .75em;
+    cursor: pointer;
+}
+
+.direita {
+    text-align: right;
+}
+
+.vermelho {
+    color: red;
+}
+
+.spacamento-lateral {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img {
+    width: 10vw;
+}
