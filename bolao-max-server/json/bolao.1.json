@@ -1,7 +1,5 @@
 {
-    "Competidores": [
-        
-        {
+    "Competidores": [{
         "Nome": "Max",
         "Pontos": 34,
         "Saldo_Gols": 5,
@@ -10,7 +8,7 @@
         "Premio": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Flamengo",
+            "Clube": "Santos",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -20,10 +18,10 @@
             "golsContra": "13",
             "saldoGols": "-2",
             "percentual": "37.5",
-            "Coracao": true
+            "Coracao": false
         }, {
             "Grupo": "GP2",
-            "Clube": "Cruzeiro",
+            "Clube": "Flamengo",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -33,7 +31,7 @@
             "golsContra": "6",
             "saldoGols": "10",
             "percentual": "74.1",
-            "Coracao": false
+            "Coracao": true
         }, {
             "Grupo": "GP3",
             "Clube": "Chapecoense",
@@ -49,7 +47,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Goiás",
+            "Clube": "Vitória",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -61,16 +59,14 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }, 
-    
-    {
+    }, {
         "Nome": "Francisco",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Palmeiras",
+            "Clube": "Grêmio",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -83,7 +79,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP2",
-            "Clube": "Athletico-PR",
+            "Clube": "Vasco",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -93,7 +89,7 @@
             "golsContra": "6",
             "saldoGols": "10",
             "percentual": "74.1",
-            "Coracao": false
+            "Coracao": true
         }, {
             "Grupo": "GP3",
             "Clube": "Chapecoense",
@@ -109,7 +105,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Vasco",
+            "Clube": "Paraná",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -119,11 +115,9 @@
             "golsContra": "20",
             "saldoGols": "-5",
             "percentual": "29.6",
-            "Coracao": true
+            "Coracao": false
         }]
-    }, 
-    
-    {
+    }, {
         "Nome": "Daiane",
         "Pontos": 34,
         "Saldo_Gols": 5,
@@ -143,7 +137,7 @@
             "Coracao": true
         }, {
             "Grupo": "GP2",
-            "Clube": "Cruzeiro",
+            "Clube": "Vasco",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -156,7 +150,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP3",
-            "Clube": "Fluminense",
+            "Clube": "Chapecoense",
             "pontos": "10",
             "jogos": "9",
             "vitorias": "2",
@@ -169,7 +163,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Avaí",
+            "Clube": "Paraná",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -181,16 +175,14 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    },
-    
-    {
+    }, {
         "Nome": "Leandro",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Flamengo",
+            "Clube": "Cruzeiro",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -200,10 +192,10 @@
             "golsContra": "13",
             "saldoGols": "-2",
             "percentual": "37.5",
-            "Coracao": true
+            "Coracao": false
         }, {
             "Grupo": "GP2",
-            "Clube": "Botafogo",
+            "Clube": "Flamengo",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -213,10 +205,10 @@
             "golsContra": "6",
             "saldoGols": "10",
             "percentual": "74.1",
-            "Coracao": false
+            "Coracao": true
         }, {
             "Grupo": "GP3",
-            "Clube": "Bahia",
+            "Clube": "Atlético-PR",
             "pontos": "10",
             "jogos": "9",
             "vitorias": "2",
@@ -229,7 +221,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Fortaleza",
+            "Clube": "Ceará",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -241,16 +233,14 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }, 
-    
-    {
+    }, {
         "Nome": "Tiago",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Palmeiras",
+            "Clube": "Corinthians",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -263,7 +253,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP2",
-            "Clube": "Botafogo",
+            "Clube": "Vasco",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -273,10 +263,10 @@
             "golsContra": "6",
             "saldoGols": "10",
             "percentual": "74.1",
-            "Coracao": false
+            "Coracao": true
         }, {
             "Grupo": "GP3",
-            "Clube": "Ceará",
+            "Clube": "Fluminense",
             "pontos": "10",
             "jogos": "9",
             "vitorias": "2",
@@ -289,7 +279,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Vasco",
+            "Clube": "Paraná",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -299,18 +289,16 @@
             "golsContra": "20",
             "saldoGols": "-5",
             "percentual": "29.6",
-            "Coracao": true
+            "Coracao": false
         }]
-    }, 
-    
-    {
+    }, {
         "Nome": "Renato",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Palmeiras",
+            "Clube": "Grêmio",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -323,7 +311,7 @@
             "Coracao": true
         }, {
             "Grupo": "GP2",
-            "Clube": "Botafogo",
+            "Clube": "Atlético-MG",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -336,7 +324,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP3",
-            "Clube": "Chapecoense",
+            "Clube": "Bahia",
             "pontos": "10",
             "jogos": "9",
             "vitorias": "2",
@@ -349,7 +337,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Fortaleza",
+            "Clube": "América-MG",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -361,76 +349,14 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }, 
-    
-    {
+    }, {
         "Nome": "Marilda",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Santos",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
             "Clube": "Corinthians",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Vasco",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }, 
-    
-    {
-        "Nome": "Wagner",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Internacional",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -443,67 +369,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP2",
-            "Clube": "Athletico-PR",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Fluminense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Vasco",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": true
-        }]
-    }
-    
-    , {
-        "Nome": "Miguel",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
             "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Atlético-MG",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -513,7 +379,7 @@
             "golsContra": "6",
             "saldoGols": "10",
             "percentual": "74.1",
-            "Coracao": false
+            "Coracao": true
         }, {
             "Grupo": "GP3",
             "Clube": "Fluminense",
@@ -529,7 +395,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Goiás",
+            "Clube": "Vitória",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -541,10 +407,8 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }
-    
-    , {
-        "Nome": "Terezinha",
+    }, {
+        "Nome": "Wagner",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
@@ -563,187 +427,7 @@
             "Coracao": true
         }, {
             "Grupo": "GP2",
-            "Clube": "Atlético-MG",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Goiás",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Guilherme",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Santos",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Corinthians",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Vasco",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Rômulo",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Santos",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Corinthians",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Fortaleza",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Willian",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Santos",
+            "Clube": "Botafogo",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -769,7 +453,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Fortaleza",
+            "Clube": "Ceará",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -781,16 +465,72 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }
-    
-    , {
-        "Nome": "Anna Maria",
+    }, {
+        "Nome": "Miguel",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
+            "Clube": "Santos",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
             "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Atlético-PR",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Terezinha",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Corinthians",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",
@@ -803,7 +543,645 @@
             "Coracao": true
         }, {
             "Grupo": "GP2",
+            "Clube": "Atlético-MG",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": false
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Sport",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Paraná",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Guilherme",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
             "Clube": "Cruzeiro",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Atlético-PR",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Vitória",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Rômulo",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Santos",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Bahia",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Willian",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Grêmio",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Sport",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Diego",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Cruzeiro",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": true
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Vasco",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": false
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Sport",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Vitória",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Jean",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Palmeiras",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Atlético-PR",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "América-MG",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Eduardo",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Corinthians",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Botafogo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": false
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Sport",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": true
+        }]
+    }, {
+        "Nome": "Paulo",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Corinthians",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Vasco",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Bahia",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Vitória",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Geovane",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Palmeiras",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Sport",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Sérgio",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Santos",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Fluminense",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Internacional",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Chamon",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Palmeiras",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": false
+        }, {
+            "Grupo": "GP2",
+            "Clube": "Flamengo",
+            "pontos": "20",
+            "jogos": "9",
+            "vitorias": "6",
+            "empates": "2",
+            "derrotas": "1",
+            "golsPro": "16",
+            "golsContra": "6",
+            "saldoGols": "10",
+            "percentual": "74.1",
+            "Coracao": true
+        }, {
+            "Grupo": "GP3",
+            "Clube": "Chapecoense",
+            "pontos": "10",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "4",
+            "derrotas": "3",
+            "golsPro": "12",
+            "golsContra": "18",
+            "saldoGols": "-6",
+            "percentual": "37.0",
+            "Coracao": false
+        }, {
+            "Grupo": "GP4",
+            "Clube": "Ceará",
+            "pontos": "8",
+            "jogos": "9",
+            "vitorias": "2",
+            "empates": "2",
+            "derrotas": "5",
+            "golsPro": "15",
+            "golsContra": "20",
+            "saldoGols": "-5",
+            "percentual": "29.6",
+            "Coracao": false
+        }]
+    }, {
+        "Nome": "Ronaldo",
+        "Pontos": 34,
+        "Saldo_Gols": 5,
+        "Posicao": 1,
+        "Clubes": [{
+            "Grupo": "GP1",
+            "Clube": "Grêmio",
+            "pontos": "9",
+            "jogos": "8",
+            "vitorias": "3",
+            "empates": "0",
+            "derrotas": "5",
+            "golsPro": "11",
+            "golsContra": "13",
+            "saldoGols": "-2",
+            "percentual": "37.5",
+            "Coracao": true
+        }, {
+            "Grupo": "GP2",
+            "Clube": "São Paulo",
             "pontos": "20",
             "jogos": "9",
             "vitorias": "6",
@@ -829,7 +1207,7 @@
             "Coracao": false
         }, {
             "Grupo": "GP4",
-            "Clube": "Avaí",
+            "Clube": "Paraná",
             "pontos": "8",
             "jogos": "9",
             "vitorias": "2",
@@ -841,436 +1219,14 @@
             "percentual": "29.6",
             "Coracao": false
         }]
-    }
-    
-    , {
-        "Nome": "Jean",
+    }, {
+        "Nome": "Fatinha",
         "Pontos": 34,
         "Saldo_Gols": 5,
         "Posicao": 1,
         "Clubes": [{
             "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Botafogo",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": true
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Bahia",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Avaí",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Eduardo",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Botafogo",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Goiás",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": true
-        }]
-    }
-    
-    , {
-        "Nome": "Paulo",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Grêmio",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": false
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Botafogo",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Vasco",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": true
-        }]
-    }
-    
-    , {
-        "Nome": "Geovane",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Cruzeiro",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Vasco",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Sérgio",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Atlético-MG",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "CSA",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Chamon",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": true
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Cruzeiro",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": false
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Chapecoense",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "Avaí",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Ronaldo",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Flamengo",
-            "pontos": "9",
-            "jogos": "8",
-            "vitorias": "3",
-            "empates": "0",
-            "derrotas": "5",
-            "golsPro": "11",
-            "golsContra": "13",
-            "saldoGols": "-2",
-            "percentual": "37.5",
-            "Coracao": false
-        }, {
-            "Grupo": "GP2",
-            "Clube": "Cruzeiro",
-            "pontos": "20",
-            "jogos": "9",
-            "vitorias": "6",
-            "empates": "2",
-            "derrotas": "1",
-            "golsPro": "16",
-            "golsContra": "6",
-            "saldoGols": "10",
-            "percentual": "74.1",
-            "Coracao": true
-        }, {
-            "Grupo": "GP3",
-            "Clube": "Bahia",
-            "pontos": "10",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "4",
-            "derrotas": "3",
-            "golsPro": "12",
-            "golsContra": "18",
-            "saldoGols": "-6",
-            "percentual": "37.0",
-            "Coracao": false
-        }, {
-            "Grupo": "GP4",
-            "Clube": "CSA",
-            "pontos": "8",
-            "jogos": "9",
-            "vitorias": "2",
-            "empates": "2",
-            "derrotas": "5",
-            "golsPro": "15",
-            "golsContra": "20",
-            "saldoGols": "-5",
-            "percentual": "29.6",
-            "Coracao": false
-        }]
-    }
-    
-    , {
-        "Nome": "Fatinha//",
-        "Pontos": 34,
-        "Saldo_Gols": 5,
-        "Posicao": 1,
-        "Clubes": [{
-            "Grupo": "GP1",
-            "Clube": "Grêmio",
+            "Clube": "Palmeiras",
             "pontos": "9",
             "jogos": "8",
             "vitorias": "3",

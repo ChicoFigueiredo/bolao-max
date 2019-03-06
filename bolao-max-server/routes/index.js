@@ -8,7 +8,7 @@ var request = require('request')
 cb.tabela = function(serie) {
     return new Promise(function(acept, error) {
       var options = {
-        url: 'http://globoesporte.globo.com/futebol/brasileirao-serie-' + serie,
+        url: 'https://globoesporte.globo.com/futebol/brasileirao-serie-' + serie,
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
         }
