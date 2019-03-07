@@ -92,7 +92,11 @@ router.get('/', function(req, res, next) {
             if (a.Pontos == b.Pontos && a.Saldo_Gols > b.Saldo_Gols) return -1;
             if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro < b.golsPro) return +1;
             if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro > b.golsPro) return -1;
-            if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro == b.golsPro) return 0;
+            if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro == b.golsPro && a.golsContra > b.golsContra ) return +1;
+            if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro == b.golsPro && a.golsContra < b.golsContra ) return -1;
+            if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro == b.golsPro && a.golsContra == b.golsContra && a.Nome > b.Nome) return +1;
+            if (a.Pontos == b.Pontos && a.Saldo_Gols == b.Saldo_Gols && a.golsPro == b.golsPro && a.golsContra == b.golsContra && a.Nome < b.Nome) return -1;
+            return 0;
         });
         pos = 0;
         bolao.Competidores.forEach(b => {
@@ -100,7 +104,8 @@ router.get('/', function(req, res, next) {
             b.Posicao = pos;
             b.Premio = pos == 1 ? 'R$ 2.000,00' : pos == 2 ? 'R$ 600,00' : pos == 3 ? 'R$ 300,00' : pos == bolao.Competidores.length ? 'R$ 100,00' : '-';
         });
-        res.render('index', { bolao, brw });
+        const titulo = "Bolão do Max - 2019"
+        res.render('index', { bolao, brw, titulo });
     }, function(err) {
         console.log(err);
     });

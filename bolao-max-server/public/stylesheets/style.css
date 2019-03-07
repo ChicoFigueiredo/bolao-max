@@ -9,6 +9,7 @@ body {
 
 h1 {
     font-weight: 600;
+    font-size: 2rem;
 }
 
 a {
@@ -28,12 +29,22 @@ th {
     color: white
 }
 
+
+table {
+    width: 100%;
+}
+
+
 th,
 td {
     padding: 3px;
     padding-top: .75em;
     padding-bottom: .75em;
     cursor: pointer;
+}
+
+tr:hover {
+    background-color: yellow !important;
 }
 
 .direita {
