@@ -1,0 +1,26 @@
+version: "3.5"
+services:
+  bolao.maxmat1.com.br:
+    container_name: bolao.maxmat1.com.br
+    build: .
+    image: node/bolao.maxmat1.com.br
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=production
+      - PORT=8081
+    volumes:
+      - ./app-build:/usr/src/app
+      - ./process:/usr/src/process
+      - ./tmp:/tmp
+    ports:
+      - "5001:8081"
+    working_dir: /usr/src/app
+    restart: always
+    networks:
+        - rede-maxmat1
+
+networks:
+  rede-maxmat1:
+    name: rede-maxmat1
+    driver: bridge         
